@@ -9,18 +9,7 @@ Contextualização: A Rossmann é uma das maiores redes de farmácias da Europa,
 
 Os dados utilizados neste projeto são reais, e foram disponibilizados pela própria Rossmanm através do site Kaggle, para uma competição de ciência de dados. Foram disponibilizados 1.017.209 registros de vendas, contendo 18 características de cada venda.
 
-O contexto de negócios é fictício, porém descreve um problema real de uma grande varejista: prever com assertividade suas vendas.
-
-
-Projeto de Previsão de Vendas de uma rede de farmácias.
-
-Contextualização:
-A Rossmann é uma das maiores redes de farmácias da Europa, possuindo mais de 4.000 lojas, e 56 mil colaboradores até 2020.
-
-Os dados utilizados neste projeto são reais, e foram disponibilizados pela própria Rossmanm através do site Kaggle, para uma competição de ciência de dados.
-Foram disponibilizados 1.017.209 registros de vendas, contendo 18 características de cada venda.
-
-O contexto de negócios é fictício, porém descreve um problema real de uma grande varejista: prever com assertividade suas vendas.
+O contexto de negócios é fictício, porém descreve um problema real de uma grande varejista: As previsões de vendas da Rossmann, eram até antes deste projeto realizadas por meio de planilhas de histórico de venda, através de uma média móvel. A taxa de erros da previsão de vendas de toda a rede ficava na média de 36%, chegando a até 60% nas lojas mais recentes.
 
 ## 1. Problema de negócios
 
@@ -32,7 +21,7 @@ Propiciar a melhoria na gestão financeira da empresa, através de maior asserti
 
 
 ## 2. Premissas de negócio
-- A consulta da previsão de vendas estará disponível 24/7, e será acessível via dispositivos móveis.
+- A consulta da previsão de vendas estará disponível 24/9, e será acessível via dispositivos móveis.
 - O planejamento da solução será validado com os gerentes, visando garantir que o seu conhecimento de negócios seja aproveitado ao máximo.
 
 As variáveis do dataset original são:
@@ -87,7 +76,7 @@ Quais ferramentas serão usadas no processo?
 #### 3.3.1 Estratégia de solução
 Minha estratégia para resolver esse desafio, baseado na metodologia CRISP-DS, é:
 
-1. Compreender com clareza o modelo e o problema de negócios, através da estatística descritiva;
+1. Compreender com clareza o modelo e o problema de negócio, através da estatística descritiva;
 2. Tratar os dados (formatos, dados faltantes, outliers), realizando a sua limpeza.
 3. Levantar junto ao time de negócio as variáveis que impactam nas vendas, formular e validar hipóteses gerando insights de negócio, e perceber quais variáveis são insumos relevantes para o algoritmo de previsão de vendas.
 4. Preparar os dados para a criação do modelo de previsão de vendas, realizando transformações, separação do dataframe entre treino e teste, e seleção de features através de algoritmo com esta finalidade.   
@@ -131,7 +120,7 @@ Em números, isto representa aproximadamente €114.140.000 (± R$700 milhões) 
 ## 6. Conclusão
 O objetivo do projeto foi alcançado, resolvendo não só o problema inicial de previsibilidade de faturamento do CFO, bem como melhorando a gestão financeira da Rossmann como um todo, trazendo consigo ganhos financeiros consideráveis para o negócio.
 
-O funcionamento da previsão de vendas via bot do Telegram pode ser visto aqui: [Youtube](link)
+O funcionamento da previsão de vendas via bot do Telegram pode ser visto aqui: [Youtube](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
 
 ## 7. Próximos passos
 Melhorias mapeadas:
