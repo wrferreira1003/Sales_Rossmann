@@ -122,7 +122,7 @@ O objetivo do projeto foi alcançado, resolvendo não só o problema inicial de 
 
 O funcionamento da previsão de vendas via bot do Telegram pode ser visto aqui: [Youtube](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
 
-[![Boot do Telegram](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
+[![Boot do Telegram](https://github.com/wrferreira1003/Sales_Rossmann/blob/main/img/rossmann.png)](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
 
 ## 7. Próximos passos
 Melhorias mapeadas:
