@@ -1,7 +1,7 @@
 
 # Project – Pharmacy-Sales-Forecast
 
-![estrategia](https://github.com/wrferreira1003/Data-science-coursework-projects/blob/main/img/logo.well.png)
+![estrategia](https://github.com/wrferreira1003/Sales_Rossmann/blob/main/img/rossmann.png)
 
 Projeto de Previsão de Vendas de uma rede de farmácias.
 
