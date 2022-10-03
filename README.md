@@ -122,6 +122,8 @@ O objetivo do projeto foi alcançado, resolvendo não só o problema inicial de 
 
 O funcionamento da previsão de vendas via bot do Telegram pode ser visto aqui: [Youtube](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
 
+[![Boot do Telegram](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)](https://youtube.com/shorts/nOjzwWl4IC8?feature=share)
+
 ## 7. Próximos passos
 Melhorias mapeadas:
 * Reavaliar o conjunto de parâmetros utilizados para maximizar o aprendizado do modelo, incluindo mais parâmetros na estratégia Random Search, e avaliando a viabilidade de uso da estratégia Bayesian Search.
